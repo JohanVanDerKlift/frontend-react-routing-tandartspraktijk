@@ -8,6 +8,11 @@ import Navigation from './components/navigation/Navigation';
 import { Routes, Route } from "react-router-dom";
 
 function App() {
+
+  function clickHandler() {
+
+  }
+
   return (
     <>
       <Navigation />
